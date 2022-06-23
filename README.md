@@ -1,7 +1,7 @@
 ## 备注
 
-从零开始 naive-ui，功能完成情况比较粗糙，望见谅。
-`view` template、message 页面时本人完成需求新增的页面。
+从零开始 naive-ui，功能完成情况比较粗糙，望见谅，
+`view`目录下`template`、`message` 页面时本人完成需求新增的页面。
 
 ## 简介
 
